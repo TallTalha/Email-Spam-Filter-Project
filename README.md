@@ -3,10 +3,14 @@
 
 -Spam mail classification project with machine learning algorithms.
 
+------------------------------------------------------------------
 
 -The Ling-spam dataset is the dataset of this project.
+
 -Ling-spam veri seti bu projenin veri setidir.
 Link : https://www.kaggle.com/datasets/mandygu/lingspam-dataset
+
+------------------------------------------------------------------
 
 -KNN ve SVM sınıflandırma algoritmaları kıyaslanmış ve SVM algoritması seçilmiştir. Seçilen modelin optimizayonu ile beraber test veri seti üzerinde %99.28 doğruluk sağlamıştır. 
 
