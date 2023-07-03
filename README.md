@@ -8,6 +8,7 @@
 -The Ling-spam dataset is the dataset of this project.
 
 -Ling-spam veri seti bu projenin veri setidir.
+
 Link : https://www.kaggle.com/datasets/mandygu/lingspam-dataset
 
 ------------------------------------------------------------------
