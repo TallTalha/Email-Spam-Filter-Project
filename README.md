@@ -1,5 +1,6 @@
 # Email-Spam-Filter-Project
 -Makine öğrenme algoritmalarıyla spam mailleri sınıflandırma projesi.
+
 -Spam mail classification project with machine learning algorithms.
 
 
